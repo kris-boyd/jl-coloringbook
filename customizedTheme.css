@@ -19,7 +19,7 @@
     z-index:100000;
     position: sticky;  position: -webkit-sticky; 
     top: 0;
-    background-color: rgba(255,200,200,.4)  /*Change background color of toolbar */
+    background-color: rgba(200,200,200,.1)  /*Change background color of toolbar */
 }
 .tools {
     display:flex;
